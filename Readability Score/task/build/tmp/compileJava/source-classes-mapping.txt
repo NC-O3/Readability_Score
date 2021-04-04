@@ -1,0 +1,10 @@
+readability/AutomatedReadabilityIndex.java
+ readability.AutomatedReadabilityIndex
+readability/ColemanLiauIndex.java
+ readability.ColemanLiauIndex
+readability/Main.java
+ readability.Main
+readability/SmogIndex.java
+ readability.SmogIndex
+readability/FleschKincaidIndex.java
+ readability.FleschKincaidIndex
